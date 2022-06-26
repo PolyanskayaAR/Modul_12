@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SkillFactory_Module_12/1.0.0": {
+        "runtime": {
+          "SkillFactory_Module_12.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SkillFactory_Module_12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

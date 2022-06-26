@@ -1,0 +1,16 @@
+C:\Users\asya1\Desktop\12\SkillFactory_Module_12\bin\Debug\net5.0\SkillFactory_Module_12.exe
+C:\Users\asya1\Desktop\12\SkillFactory_Module_12\bin\Debug\net5.0\SkillFactory_Module_12.deps.json
+C:\Users\asya1\Desktop\12\SkillFactory_Module_12\bin\Debug\net5.0\SkillFactory_Module_12.runtimeconfig.json
+C:\Users\asya1\Desktop\12\SkillFactory_Module_12\bin\Debug\net5.0\SkillFactory_Module_12.runtimeconfig.dev.json
+C:\Users\asya1\Desktop\12\SkillFactory_Module_12\bin\Debug\net5.0\SkillFactory_Module_12.dll
+C:\Users\asya1\Desktop\12\SkillFactory_Module_12\bin\Debug\net5.0\ref\SkillFactory_Module_12.dll
+C:\Users\asya1\Desktop\12\SkillFactory_Module_12\bin\Debug\net5.0\SkillFactory_Module_12.pdb
+C:\Users\asya1\Desktop\12\SkillFactory_Module_12\obj\Debug\net5.0\SkillFactory_Module_12.csproj.AssemblyReference.cache
+C:\Users\asya1\Desktop\12\SkillFactory_Module_12\obj\Debug\net5.0\SkillFactory_Module_12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asya1\Desktop\12\SkillFactory_Module_12\obj\Debug\net5.0\SkillFactory_Module_12.AssemblyInfoInputs.cache
+C:\Users\asya1\Desktop\12\SkillFactory_Module_12\obj\Debug\net5.0\SkillFactory_Module_12.AssemblyInfo.cs
+C:\Users\asya1\Desktop\12\SkillFactory_Module_12\obj\Debug\net5.0\SkillFactory_Module_12.csproj.CoreCompileInputs.cache
+C:\Users\asya1\Desktop\12\SkillFactory_Module_12\obj\Debug\net5.0\SkillFactory_Module_12.dll
+C:\Users\asya1\Desktop\12\SkillFactory_Module_12\obj\Debug\net5.0\ref\SkillFactory_Module_12.dll
+C:\Users\asya1\Desktop\12\SkillFactory_Module_12\obj\Debug\net5.0\SkillFactory_Module_12.pdb
+C:\Users\asya1\Desktop\12\SkillFactory_Module_12\obj\Debug\net5.0\SkillFactory_Module_12.genruntimeconfig.cache
